@@ -8,7 +8,8 @@ The purpose of this challenge is to give us a better understanding of your codin
 
 - [ ] Create a Project for a Mobile Phone
 - [ ] Android:_Java or  _Kotlin_ | iOS: _Swift_
-- [ ] Architecture: MVVM 
+- [ ] Architecture: MVVM, 
+- [ ] Others: Retrofit2 , RxJava2, Room, Dagger2/Hilt/Koin
 
 ### Functional Requirements:
 - [ ] Exchange rates must be fetched from: https://currencylayer.com/documentation  
