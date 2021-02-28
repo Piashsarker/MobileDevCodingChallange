@@ -7,7 +7,8 @@ The purpose of this challenge is to give us a better understanding of your codin
 #### Develop a Currency Conversion App that allows a user view exchange rates for any given currency
 
 - [ ] Create a Project for a Mobile Phone
-- [ ] Android: _Kotlin_ | iOS: _Swift_ (sorry, no Objective-C or Java please! You can learn Kotlin/Swift easily I'm sure:))
+- [ ] Android:_Java or  _Kotlin_ | iOS: _Swift_
+- [ ] Architecture: MVVM 
 
 ### Functional Requirements:
 - [ ] Exchange rates must be fetched from: https://currencylayer.com/documentation  
